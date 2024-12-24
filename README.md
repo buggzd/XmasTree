@@ -14,3 +14,5 @@ The model is 3MB in size and may take some time to load. Initial loading might f
 预览：https://buggzd.github.io/ChristmasTree.html
 
 模型大小为3mb，需要一定加载时间，首次加载可能失败。
+
+字体：https://github.com/google/fonts
